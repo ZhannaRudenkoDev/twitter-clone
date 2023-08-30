@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import {SideBarItems} from "../../../interface";
+import { SideBarItems } from "../../../interface";
 
 @Component({
   selector: 'sidebar-items',
